@@ -34,5 +34,5 @@ def run_game():
 
         gf.update_screen(ai_settings,screen,ship,aliens,bullets,stats,play_button,sb)
 
-
+111
 run_game()
